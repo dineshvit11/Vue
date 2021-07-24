@@ -1,0 +1,6 @@
+Install Vue js
+    Install vue CLI: npm install -g #vue/cli
+    install project: vue create myblog
+    go to my blog folder via cmd : cd myblog
+    run project: npm run serve
+    check in broweser url(check on cmd): http://localhost:8080/
