@@ -1,3 +1,4 @@
+how to install vue step by step,
 Install Vue js
     Install vue CLI: npm install -g #vue/cli
     install project: vue create myblog
